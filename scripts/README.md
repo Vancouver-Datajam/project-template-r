@@ -17,4 +17,4 @@ Tell what we need to install for the scripts to run successfully (i.e. libraries
 
     r my_script.r 
     
-### Script comsiderations and limitations
+### Script considerations and limitations
